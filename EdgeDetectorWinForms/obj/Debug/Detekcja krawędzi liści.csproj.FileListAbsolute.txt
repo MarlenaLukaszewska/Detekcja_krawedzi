@@ -1,0 +1,47 @@
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\Detekcja krawędzi liści.csprojResolveAssemblyReference.cache
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Forms.FormGaussianProperties.resources
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Forms.FormRadioButton.resources
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Forms.MainForm.resources
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Properties.Resources.resources
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Wait.resources
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\Detekcja krawędzi liści.csproj.GenerateResource.Cache
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.exe
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.pdb
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe.config
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.pdb
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.dll
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Imaging.dll
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Math.dll
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\ImageProcessor.dll
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.xml
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Imaging.xml
+C:\Users\Marlenka\Desktop\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Math.xml
+D:\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe.config
+D:\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.exe
+D:\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.pdb
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe.config
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.exe
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.pdb
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.pdb
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.dll
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Imaging.dll
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Math.dll
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\ImageProcessor.dll
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.xml
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Imaging.xml
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\AForge.Math.xml
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\Detekcja krawędzi liści.csprojResolveAssemblyReference.cache
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Forms.FormGaussianProperties.resources
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Forms.FormRadioButton.resources
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Forms.MainForm.resources
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Properties.Resources.resources
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.Wait.resources
+c:\Users\Radek\Downloads\EdgeDetectorWinForms\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\Detekcja krawędzi liści.csproj.GenerateResource.Cache
+D:\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe.config
+D:\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.exe
+D:\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.pdb
+C:\Users\Marlenka\Desktop\dane i zdjęcia\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\bin\Debug\EdgeDetectorWinForms.exe.config
+C:\Users\Marlenka\Desktop\dane i zdjęcia\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.exe
+C:\Users\Marlenka\Desktop\dane i zdjęcia\INŻYNIERKA\Inżynierka program\EdgeDetectorWinForms\EdgeDetectorWinForms\obj\Debug\EdgeDetectorWinForms.pdb
